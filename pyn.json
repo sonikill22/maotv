@@ -1,8 +1,8 @@
-﻿{ 
+{ 
 
   //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/91a.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
-  "spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/91c1.jar",
-
+ // "spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/91c1.jar",
+"spider":http://刚刚.live/jar2/0906.jar
  
   
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2hlcm9ha3UvVFZib3hvL3Jhdy9tYWluL3R2L2JjLnR4dA=="]}]}],
