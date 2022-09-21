@@ -107,7 +107,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_xmaomi.py"
-	}, //{
+	}, {
 		"key": "py_zhaozy",
 		"name": "找资源",
 		"type": 3,
@@ -116,7 +116,7 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zhaozy.py"
-	}, //{
+	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
 		"type": 3,
@@ -125,7 +125,7 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_pansou.py"
-	},// {
+	},{
 		"key": "push_agent",
 		"name": "阿里",
 		"type": 3,
